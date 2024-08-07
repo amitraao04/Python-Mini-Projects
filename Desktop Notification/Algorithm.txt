@@ -1,0 +1,24 @@
+﻿ALGORITHM
+1. Import Libraries: Import requests, xml.etree.ElementTree, time, and plyer.notification.
+2. Define RSS Feed URL: Set the RSS_FEED_URL to the desired RSS feed link. "http://feeds.bbci.co.uk/news/rss.xml"
+3. Load RSS Feed (loadRSS):
+   * Send an HTTP GET request to the RSS_FEED_URL.
+   * Return the response content.
+4. Parse XML (parseXML):
+   * If the input RSS content is None, return an empty list.
+   * Parse the XML content using ET.fromstring.
+   * Initialize an empty list newsitems to store news data.
+   * For each <item> element in the XML, extract relevant child elements.
+   * Store the data in a dictionary, handling special tags like <media:content>.
+   * Append each dictionary to newsitems.
+   * Return the newsitems list.
+5. Fetch Top Stories (topStories):
+   * Call loadRSS to get the RSS feed content.
+   * Call parseXML to parse and extract news items.
+   * Return the list of news items.
+6. Main Execution:
+   * Print a message indicating the fetching of news items.
+   * Call topStories to fetch and parse the news items.
+   * For each news item, extract the title and description fields.
+   * Display each news item as a system notification using notification.notify.
+   * Wait for 15 seconds between notifications.

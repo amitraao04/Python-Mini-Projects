@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 06 Aug 2024 14:07:41 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Last child hurt in Southport attack leaves hospital]]></title>
+            <description><![CDATA[All children admitted to Alder Hey Children’s Hospital have now been safely discharged.]]></description>
+            <link>https://www.bbc.com/news/articles/c7033y4yxdyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c7033y4yxdyo#0</guid>
+            <pubDate>Tue, 06 Aug 2024 13:53:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/5df0/live/cf844910-53f9-11ef-8a09-5fa1043056ff.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The ex-football coach and teacher - now Harris’s VP pick]]></title>
+            <description><![CDATA[The Minnesota governor is a former public school teacher, National Guardsman and member of Congress.]]></description>
+            <link>https://www.bbc.com/news/articles/cleyjp5qldno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cleyjp5qldno#0</guid>
+            <pubDate>Tue, 06 Aug 2024 13:03:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/65af/live/55287640-5332-11ef-8f0f-0577398c3339.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Second Banksy artwork in two days appears in London]]></title>
+            <description><![CDATA[The elusive artist unveils an elephants stencil piece in Chelsea, south-west London.]]></description>
+            <link>https://www.bbc.com/news/articles/c9wjjex5qw7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9wjjex5qw7o#0</guid>
+            <pubDate>Tue, 06 Aug 2024 13:14:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/4f83/live/b7a8ca40-53f5-11ef-8f0f-0577398c3339.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Hero’ father killed in crocodile attack]]></title>
+            <description><![CDATA[Dr David Hogbin was walking when a path gave way and he fell into water, before being taken by a crocodile.]]></description>
+            <link>https://www.bbc.com/news/articles/c3ejjxv3qeqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3ejjxv3qeqo#0</guid>
+            <pubDate>Tue, 06 Aug 2024 12:31:31 GMT</pubDate>
+            <media:thumbnail width="240" height="136" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/135f/live/2fc00cb0-53eb-11ef-8f0f-0577398c3339.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Water firms to be punished for years of sewage leaks]]></title>
+            <description><![CDATA[Thames Water, Northumbrian Water and Yorkshire Water face fines for repeated sewage leaks.]]></description>
+            <link>https://www.bbc.com/news/articles/c5ypp032le0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ypp032le0o#0</guid>
+            <pubDate>Tue, 06 Aug 2024 10:00:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/b160/live/b5c02fc0-53d7-11ef-aebc-6de4d31bf5cd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel and Hezbollah trade strikes as tensions simmer]]></title>
+            <description><![CDATA[An Israeli air strike kills four in southern Lebanon, while Hezbollah drones injure two in Israel.]]></description>
+            <link>https://www.bbc.com/news/articles/cgedd00pn1zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgedd00pn1zo#0</guid>
+            <pubDate>Tue, 06 Aug 2024 11:53:49 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/b32b/live/9603fca0-53e3-11ef-a4ba-4dea28b2b6f8.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Morgan confirmed as new Wales first minister]]></title>
+            <description><![CDATA[Eluned Morgan becomes the first woman to lead the Welsh government leader, following a Senedd vote.]]></description>
+            <link>https://www.bbc.com/news/articles/cq5dd7y9vqxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cq5dd7y9vqxo#0</guid>
+            <pubDate>Tue, 06 Aug 2024 11:41:53 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/6068/live/51ce28a0-53eb-11ef-9ecc-7fe7ef114852.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rioters will face 'full force of the law', says PM]]></title>
+            <description><![CDATA[The government said it would make more than 500 new prison places available to jail those taking part in the violence.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2nnj8301yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2nnj8301yo#1</guid>
+            <pubDate>Tue, 06 Aug 2024 13:57:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/c1c5/live/f868fb50-53f4-11ef-aebc-6de4d31bf5cd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Protests reveal deep-rooted anger, but UK is not at boiling point]]></title>
+            <description><![CDATA[The rhetoric taps into genuine frustration yet the UK is safer and more tolerant than ever.]]></description>
+            <link>https://www.bbc.com/news/articles/czx66dkx3wlo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czx66dkx3wlo#1</guid>
+            <pubDate>Mon, 05 Aug 2024 14:25:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/8cda/live/8e345370-53eb-11ef-9ecc-7fe7ef114852.png"/>
+        </item>
+    </channel>
+</rss>
