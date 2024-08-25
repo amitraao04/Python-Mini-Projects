@@ -35,11 +35,11 @@ app = Flask(__name__)
 def bot():
     user_msg = request.values.get('Body', '').lower()
     response = MessagingResponse()
-    q = user_msg + " espn.com"  # Changed to ESPN
+    q = user_msg + " espn.com"  
     result = [url for url in search(q, num_results=3)]
     msg = response.message(f"--- Results for '{user_msg}' ---")
     for res in result:
-        msg.body(res)  # Changed from msg = response.message(res) to msg.body(res)
+        msg.body(res)  
     return str(response)
 
 if __name__ == "__main__":
