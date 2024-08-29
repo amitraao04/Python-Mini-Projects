@@ -4,7 +4,6 @@ from tkinter import messagebox
 # Create the main window
 root = tk.Tk()
 root.title("Calculator")
-root.geometry("600x700")  # Adjust the size as needed
 root.configure(bg='#2b2b2b')  # Set background color
 
 # Create a display for the calculator
